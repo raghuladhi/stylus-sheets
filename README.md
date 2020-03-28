@@ -2,4 +2,4 @@
 
 contains stylus style sheets for websites.
 1. Roam Research
-![Screenshot-roam-research](master/Screenshot 2020-03-28 at 2.45.07 PM-min.png)
+![Screenshot-roam-research](https://github.com/raghuladhi/stylus-sheets/blob/master/Screenshot%202020-03-28%20at%202.45.07%20PM-min.png)
