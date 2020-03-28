@@ -4,7 +4,7 @@ Stylus style-sheets for various websites. These style-sheets change the appearan
 * Roam Research
 Looking forward to add more Websites in the future.
 
-##Installation
+## Installation
 
 1. Download Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/).
 2. Create new Stylesheet in the extension.
